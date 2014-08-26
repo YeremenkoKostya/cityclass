@@ -1,0 +1,22 @@
+﻿{
+    "name": "kostya/phpcave",
+    "description": "city project",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Yeremenko Konstantin",
+            "email": "ek84@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	
+	{
+    "autoload": {
+        "psr-4": {"kostya/phpcave\\": "src/"}
+    }
+	}
+	
+}
